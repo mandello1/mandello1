@@ -5,9 +5,9 @@
 Este é meu GitHub. Aqui voce poderá encontrar alguns dos meus projetos e participações.
 </br>
 </br>
-- 🔭 Estudante de Sistemas de Informação na Universidade Federal da Bahia
-- 🌱 Aluno Cubos Academy - Desenvolvimento Web
-- 👯 Aluno Algaworks - Especialista Java Spring REST
+- 🔭 Estudante de Sistemas de Informação na Universidade Federal da Bahia </br>
+- 🌱 Aluno Cubos Academy - Desenvolvimento Web</br>
+- 👯 Aluno Algaworks - Especialista Java Spring REST</br>
 
 </br>
 </br>
