@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 ## Bem-vindo! Eu sou o Pedro, desenvolvedor Fullstack!
 
 </br>
-Este é meu GitHub. Aqui voce poderá encontrar alguns dos meus projetos e participaçõe.
+Este é meu GitHub. Aqui voce poderá encontrar alguns dos meus projetos e participações.
 
 </br>
 </br>
 </br>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/mandello1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandello1&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandello1&layout=compact&langs_count=7&theme=onedark"/>
 </div>
@@ -35,14 +35,14 @@ Este é meu GitHub. Aqui voce poderá encontrar alguns dos meus projetos e parti
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
           
-          
-          
-          
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+     
   
-  ##
+</br>
+</br>
+
+
  
 <div> 
  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
