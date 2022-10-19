@@ -1,9 +1,9 @@
 
 ## Bem-vindo! Eu sou o Pedro, desenvolvedor Fullstack!
-
+</br>
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/mandellopedro.png" alt="TryHackMe">
 </br>
 Este é meu GitHub. Aqui voce poderá encontrar alguns dos meus projetos e participações.
-</br>
 </br>
 - 🔭 Estudante de Sistemas de Informação na Universidade Federal da Bahia </br>
 - 🌱 Aluno Cubos Academy - Desenvolvimento Web</br>
