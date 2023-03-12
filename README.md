@@ -1,11 +1,11 @@
 
-## Bem-vindo! Eu sou o Pedro, desenvolvedor Fullstack!
+## Bem-vindo! Eu sou o Pedro, software developer e analista de segurança de informação!
 </br>
 Este é meu GitHub. Aqui voce poderá encontrar alguns dos meus projetos e participações.
 </br>
-- 🔭 Estudante de Sistemas de Informação na Universidade Federal da Bahia </br>
-- 🌱 Aluno Cubos Academy - Desenvolvimento Web</br>
-- 👯 Aluno Algaworks - Especialista Java Spring REST</br>
+- Estudante de Sistemas de Informação na Universidade Federal da Bahia </br>
+- Aluno Cubos Academy - Desenvolvimento Web</br>
+- Aluno Algaworks - Especialista Java Spring REST</br>
 
 </br>
 </br>
