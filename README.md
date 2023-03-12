@@ -1,5 +1,5 @@
 
-## Bem-vindo! Eu sou o Pedro, software developer e analista de segurança de informação!
+## Bem-vindo! Eu sou o Pedro, software developer e analista de segurança cibernética!
 </br>
 Este é meu GitHub. Aqui voce poderá encontrar alguns dos meus projetos e participações.
 </br>
